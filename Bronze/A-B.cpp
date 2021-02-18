@@ -5,11 +5,13 @@ using namespace std;
 int main(void)
 {
 	int a, b;
+
 	cin >> a >> b;
-	cout << a + b << endl;
+
+	cout << a - b << endl;
 	return 0;
 }
-// problem: https://www.acmicpc.net/problem/1000
+// problem: https://www.acmicpc.net/problem/1001
 
 /*
 simple problem
