@@ -22,7 +22,7 @@ int main(void)
 	return 0;
 }
 
-// https://www.acmicpc.net/problem/1016
+// problem: https://www.acmicpc.net/problem/1016
 
 /*
 simple to implement but hard to think.
