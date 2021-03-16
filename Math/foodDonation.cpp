@@ -2,7 +2,6 @@
 #include <vector>
 #include <cmath>
 #include <algorithm>
-#include <ctime>
 using namespace std;
 using ll = long long;
 vector<int> minFactor, output, dp;
@@ -30,7 +29,6 @@ int factor(int num)
 }
 int main()
 {
-	clock_t s, e;
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
@@ -44,7 +42,6 @@ int main()
 	minFactor.resize(m + 1); dp.resize(m + 1, -1); psum.resize(m + 1, 0);
 	minFactor[0] = minFactor[1] = -1;
 	eratosthenes();
-	s = clock();
 	for (int num = 2; num <= m; num++)
 		psum[num] = psum[num - 1] + factor(num);
 	for (pair<int, int> p : input)
@@ -64,5 +61,5 @@ I translate this problem as factorization.
 And I thought it is the problem of translation and If it correctly translated
 I can easily solve this problem.
 But, That was wrong, At the end of use all my knowledge(DP, accumulatedSum, Eratosthenes) to use.
-I finally can solve this problem. I didn't believe I solved this problem.
+I finally can solve this problem. I can't believe I solved this problem.
 */
