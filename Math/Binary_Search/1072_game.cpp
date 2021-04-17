@@ -49,7 +49,3 @@ int main()
 
 
 // https://www.acmicpc.net/problem/1072
-
-/*
-simple binary search
-*/
