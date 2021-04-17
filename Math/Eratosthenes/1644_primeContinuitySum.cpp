@@ -36,7 +36,3 @@ int main()
 	cout << ans << '\n';
 }
 // https://www.acmicpc.net/problem/1644
-
-/*
-queue is useful to solve this problem.
-*/
