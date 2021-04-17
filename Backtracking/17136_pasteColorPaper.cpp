@@ -73,8 +73,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/17136
-
-/*
-One, it can be solved by bfs,But,its memory and cost take a lot
-Two, do not put board(vector<vector>) as parameter.
-*/
