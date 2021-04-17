@@ -65,7 +65,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2580
-
-/*
-it was bothersome to calculate diagonal position.
-*/
