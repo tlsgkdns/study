@@ -29,7 +29,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/18429
-
-/*
-backtracking problem.
-*/
