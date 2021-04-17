@@ -28,5 +28,5 @@ int main()
 // https://www.acmicpc.net/problem/15651
 
 /*
-standard backtracking problem.
+
 */
