@@ -39,7 +39,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/10173
-
-/*
-watch out capital, small letter
-*/
