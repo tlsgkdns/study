@@ -46,7 +46,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2143
-
-/*
-Watch out that array's element can be negative
-*/
