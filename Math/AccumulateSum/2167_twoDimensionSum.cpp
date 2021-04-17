@@ -46,9 +46,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/2167
-
-/*
-you don't have to worry the border
-if you allocate one more space
-And I didn't think about that.
-*/
