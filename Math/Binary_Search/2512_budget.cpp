@@ -38,7 +38,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2512
-
-/*
-typical binary_search problem
-*/
