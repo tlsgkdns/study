@@ -53,8 +53,4 @@ int main()
 		cout << a << " ";
 }
 
-// acmicpc.net/problem/1786
-
-/*
-Standard kmp problem
-*/
+// https://www.acmicpc.net/problem/1786
