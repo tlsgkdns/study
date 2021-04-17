@@ -32,7 +32,3 @@ int main()
 	perm(n, m, ns, used, 0);
 }
 // https://www.acmicpc.net/problem/15649
-
-/*
-standard backtracking problem
-*/
