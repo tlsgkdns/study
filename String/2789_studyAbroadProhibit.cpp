@@ -28,7 +28,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/2789
-
-/*
-Because string length is small, check all string.
-*/
