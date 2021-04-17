@@ -40,7 +40,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/15650
-
-/*
-standard backtracking problem
-*/
