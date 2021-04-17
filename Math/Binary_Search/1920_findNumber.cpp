@@ -34,9 +34,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1920
-
-/*
-sort and binary_search is the only solution.
-But,recursion is not solution.
-Only "Times out" will waiting for you
-*/
