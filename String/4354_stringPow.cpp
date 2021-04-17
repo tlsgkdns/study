@@ -53,10 +53,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/4354
-
-/*
-My first KMP problem.
-To solve this problem I came up with KMP
-But, I have some misunderstood thought on the algorithm.
-So, I have some trial and error, and Finally solved this problem.
-*/
