@@ -45,7 +45,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2805
-/*
-binary_search.
-nothing to say.
-*/
