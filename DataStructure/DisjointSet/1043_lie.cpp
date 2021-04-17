@@ -66,7 +66,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1043
-
-/*
-Not that difficult, Maybe I can use DP instead of DisjointSet.
-*/
