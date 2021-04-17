@@ -24,9 +24,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/10986
-
-/*
-Not my idea, I got an idea from the question board.
-And coded based on that. I feel regret seeing that
-I had to have thought an idea myself.
-*/
