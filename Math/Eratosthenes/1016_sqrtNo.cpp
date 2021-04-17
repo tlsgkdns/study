@@ -22,10 +22,4 @@ int main(void)
 	return 0;
 }
 
-// problem: https://www.acmicpc.net/problem/1016
-
-/*
-simple to implement but hard to think.
-16 line(calculate start point) is important
-that is why I stopped solve this problem when I saw this for the first time;
-*/
+// https://www.acmicpc.net/problem/1016
