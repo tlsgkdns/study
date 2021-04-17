@@ -35,8 +35,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/12015
-
-/*
-Little struggle to coding lower_bound function.
-that I used previous lis problem.
-*/
