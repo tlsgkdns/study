@@ -36,7 +36,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/12014
-
-/*
-LIS problem with Binary_search
-*/
