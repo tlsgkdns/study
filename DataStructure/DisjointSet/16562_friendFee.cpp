@@ -79,9 +79,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/16562
-
-/*
-disjoint set problem.
-Calculate most minimum cost to connect that group;
-Not DFS.
-*/
