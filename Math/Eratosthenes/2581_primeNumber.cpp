@@ -39,7 +39,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2581
-
-/*
-maybe, I can handle this with no eratosthenes.
-*/
