@@ -26,8 +26,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1978
-
-/*
-eratosthenes.
-prime again?!
-*/
