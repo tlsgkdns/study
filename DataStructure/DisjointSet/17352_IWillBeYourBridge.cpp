@@ -58,7 +58,3 @@ int main()
 }
 
 //https://www.acmicpc.net/problem/17352
-
-/*
-easy Disjointset problem.
-*/
