@@ -43,7 +43,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/14472
-
-/*
-just count
-*/
