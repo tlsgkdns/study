@@ -56,7 +56,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/14889
-
-/*
-My first bitset use.
-*/
