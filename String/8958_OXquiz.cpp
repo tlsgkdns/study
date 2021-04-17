@@ -39,6 +39,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/8958
-/*
-easy problem
-*/
