@@ -66,8 +66,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2026
-
-/*
-not use close var = 928ms
-use close var = 4ms
-*/
