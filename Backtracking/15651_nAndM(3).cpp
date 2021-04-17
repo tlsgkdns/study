@@ -26,7 +26,3 @@ int main()
 	nAndM(0);
 }
 // https://www.acmicpc.net/problem/15651
-
-/*
-
-*/
