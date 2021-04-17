@@ -45,8 +45,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/9020
-
-/*
-Eratosthenes to mark prime
-half to n for divide
-*/
