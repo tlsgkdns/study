@@ -20,7 +20,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/10102
-
-/*
-simple problem
-*/
