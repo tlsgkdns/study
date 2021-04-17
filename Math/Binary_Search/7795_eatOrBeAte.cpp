@@ -28,6 +28,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/7795
-/*
-sort and binary search.
-*/
