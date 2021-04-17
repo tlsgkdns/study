@@ -40,10 +40,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1450
-
-/*
-Learned "Meet in the middle".
-I used map at first But it failed.
-So I googled and decided to use upper_bound(binary_search)
-referred code : https://cocoon1787.tistory.com/358
-*/
