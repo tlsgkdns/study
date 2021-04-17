@@ -31,8 +31,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/1929
-
-/*
-eratosthenes;
-In this code, I used bitset instead of vector<bool>
-*/
