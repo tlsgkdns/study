@@ -12,6 +12,3 @@ int main()
 	cout << ans << '\n';
 }
 //https://www.acmicpc.net/problem/11720
-/*
-easy string problem
-*/
