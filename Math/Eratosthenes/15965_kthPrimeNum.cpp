@@ -36,7 +36,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/15965
-
-/*
-with bool type, vector can assign 10,000,000 elements. 
-*/
