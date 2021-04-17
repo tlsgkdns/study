@@ -33,8 +33,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/3079
-/*
-I solved it at the other site, 
-But link's site test case was harder than other site.
-OverFlow was annoying. in other words, select initial "h" value was hard.
-*/
