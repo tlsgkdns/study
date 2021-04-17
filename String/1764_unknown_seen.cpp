@@ -29,7 +29,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1764
-
-/*
-Search, sort that's all.
-*/
