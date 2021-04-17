@@ -19,10 +19,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1300
-
-/*
-Hard to came up the idea.
-This code referred to google.
-I learned from Google and understood how this code works.
-Next time I met a similar problem. I will apply this way.
-*/
