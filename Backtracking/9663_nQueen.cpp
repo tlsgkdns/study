@@ -39,7 +39,3 @@ int main()
 	cout << ans << endl;
 }
 // https://www.acmicpc.net/problem/9663
-
-/*
-standard backtracking problem
-*/
