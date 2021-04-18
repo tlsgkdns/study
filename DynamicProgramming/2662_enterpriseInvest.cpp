@@ -61,8 +61,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2662
-
-/*
-Just calculating max profit was easy.
-But waste some time for reconstructing.
-*/
