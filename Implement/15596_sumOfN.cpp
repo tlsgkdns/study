@@ -7,7 +7,3 @@ long long sum(std::vector<int>& a) {
 }
 
 // https://www.acmicpc.net/problem/15596
-
-/*
-First function implement problem
-*/
