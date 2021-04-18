@@ -105,7 +105,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/17135
-
-/*
-Difficult implement problem.
-*/
