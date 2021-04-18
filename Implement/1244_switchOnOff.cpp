@@ -76,7 +76,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1244
-
-/*
-nothing to say
-*/
