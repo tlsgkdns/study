@@ -34,8 +34,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2170
-
-/*
-Learned sweeping algorithm.
-Learned "auto" is very slow that it can be effect the result(Times out).
-*/
