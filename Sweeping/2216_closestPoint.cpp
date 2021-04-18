@@ -69,17 +69,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2261
-
-/*
-Most difficult problem that I've challenged.
-First, I tried "divide and conquer" But, it says it's wrong.
-So I googled and get some information about the problem and coded.
-After trial and errors, the code became as the same as the another person's code
-But, It says incorrect.
-I have no choice. but to abandon "divide and conquer" method.
-I coded another solution learning the sweeping algorithm.
-Finally, the code was correct. I referred from here
-https://www.acmicpc.net/blog/view/25
-I'm not completely understand this code.
-So have to more learn about the sweeping algorithm.
-*/
