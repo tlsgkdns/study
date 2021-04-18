@@ -69,10 +69,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/3001
-/*
-Very hard.
-I first knew the way of dynamic programming like this.
-I googled it and got the dynamic idea, implemented it myself.
-In this sequence it takes 4 days.
-It was a very impressive problem.
-*/
