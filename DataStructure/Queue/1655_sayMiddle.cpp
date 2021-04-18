@@ -45,11 +45,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1655
-
-/*
-max_heap + min_heap
-problem of idea that using priority_queue
-At First, used a max_heap and pushed one by one and poped one by one.
-Only waiting for me was "Times out"
-It was hard than my first thought.
-*/
