@@ -50,7 +50,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/14501
-
-/*
-easy dynamic programming.
-*/
