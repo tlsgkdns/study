@@ -63,11 +63,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2618
-
-/*
-My first dynamic + reconstruct problem
-Dynamic idea was hard to think, So I get help by question page. 
-At first, I made reconstruct function of backtracking.
-But, "Times out" was the only I met.
-So I made it of dp and it was successful.
-*/
