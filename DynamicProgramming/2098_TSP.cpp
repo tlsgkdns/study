@@ -38,8 +38,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2098
-
-/*
-TSP problem, which well-known on the computer science
-Because N is low, Bitset Dynamic programming will be the answer.
-*/
