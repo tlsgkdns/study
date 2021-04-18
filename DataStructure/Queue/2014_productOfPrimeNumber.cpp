@@ -40,10 +40,4 @@ int main()
 	}
 	cout << pq.top() << '\n';
 }
-
-
-/*
-Difficult priority queue problem.
-I almost coded myself, And searched what I have to insert to the queue.
-I understood what I brought from another code.
-*/
+// https://www.acmicpc.net/problem/2014
