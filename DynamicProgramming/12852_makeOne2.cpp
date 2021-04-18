@@ -45,6 +45,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/12852
-/*
-Standard dynamic programming + construct problem.
-*/
