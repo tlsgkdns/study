@@ -50,7 +50,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11657
-
-/*
-Learned Bellman-Ford algorithm
-*/
