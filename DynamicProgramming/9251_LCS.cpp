@@ -22,6 +22,3 @@ int main()
 	cout << lcs(0, 0) << '\n';
 }
 // https://www.acmicpc.net/problem/9251
-/*
-Little hard DynamicProgramming problem
-*/
