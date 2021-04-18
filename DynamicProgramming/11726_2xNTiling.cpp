@@ -30,7 +30,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/11726
-
-/*
-My first dynamic programming that seen on the book
-*/
