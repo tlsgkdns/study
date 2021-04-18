@@ -58,11 +58,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/17835
-
-/*
-Generate one node that connected all end point with no cost.
-=> read in the book
-Reverse the path.
-=>I thought myself.
-and dijkstra.
-*/
