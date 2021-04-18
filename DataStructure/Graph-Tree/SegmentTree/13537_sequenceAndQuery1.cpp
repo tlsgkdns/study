@@ -113,10 +113,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/13537
-
-/*
-First, I solve segementTree.
-But, it turns out "Times out"
-So, I googled about another tree.
-and used MergeSort-Tree.
-*/
