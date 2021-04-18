@@ -23,9 +23,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2293
-
-/*
-Uneasy problem. I coded recursion at first.
-But, I realize its result can be Memory Excess
-So, I searched some information and coded based on that.
-*/
