@@ -75,9 +75,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/13907
-
-/*
-I thought a idea that use Dijkstra when the tax is increased.
-But, this problem can't solve that way.
-So I googled and learned using Dijkstra's variation, and I coded.
-*/
