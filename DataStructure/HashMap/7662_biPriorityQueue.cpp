@@ -39,7 +39,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/7662
-
-/*
-Learned more of the set datastruct;
-*/
