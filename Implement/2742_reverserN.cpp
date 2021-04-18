@@ -16,7 +16,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/2742
-
-/*
-to reduce time, line 9, line 12('\n') is important.
-*/
