@@ -26,8 +26,3 @@ int main()
 }
 
 //https://www.acmicpc.net/problem/1912
-
-/*
-I had seen this problem on book, but I didn't remember
-But, I solved it myself.
-*/
