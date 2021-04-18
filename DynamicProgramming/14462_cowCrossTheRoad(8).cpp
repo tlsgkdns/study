@@ -28,10 +28,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/14462
-
-/*
-At first I thought it as bipartite match
-But it was dynamic
-I tried recursive by subtracting one pair.
-Next, Indexing one. And finally I solved it by indexing two.
-*/
