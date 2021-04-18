@@ -56,7 +56,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/5639
-
-/*
-Reminding knowledge that I learned at college. 
-*/
