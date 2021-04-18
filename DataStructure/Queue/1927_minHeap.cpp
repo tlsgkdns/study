@@ -27,7 +27,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1927
-
-/*
-easy priority_queue problem
-*/
