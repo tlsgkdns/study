@@ -33,7 +33,3 @@ int main()
 }
 
 // https://solved.ac/contribute/1149
-
-/*
-Typical DP problem
-*/
