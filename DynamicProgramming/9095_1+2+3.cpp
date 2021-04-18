@@ -37,7 +37,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/9095
-
-/*
-simple dynamic
-*/
