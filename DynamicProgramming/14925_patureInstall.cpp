@@ -47,7 +47,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/14925
-
-/*
-I don't have to hand over the big type.
-*/
