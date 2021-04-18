@@ -48,7 +48,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1504
-
-/*
-dijkstra training.
-*/
