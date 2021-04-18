@@ -31,9 +31,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/1158
-
-/*
-it's simple with queue
-but I used list and erase, because when I solve this problem,
-I was noob. So the time was 116ms, and it's long
-*/
