@@ -96,8 +96,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/17837
-
-/*
-Read more carefully Game's end condition is stacking pieces more than 4.
-not all.
-*/
