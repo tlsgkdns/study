@@ -45,7 +45,3 @@ int main()
 }
 
 //https://www.acmicpc.net/problem/7785
-
-/*
-My first hash_map(unordered_map) problem
-*/
