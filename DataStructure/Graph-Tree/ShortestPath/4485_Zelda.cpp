@@ -66,8 +66,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/4485
-
-/*
-two dimension map dijkstra problem
-little harder than normal dijkstra problem.
-*/
