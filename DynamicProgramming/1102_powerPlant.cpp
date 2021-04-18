@@ -50,7 +50,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1102
-
-/*
-training dynamic with bitmask
-*/
