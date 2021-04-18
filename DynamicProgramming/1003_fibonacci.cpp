@@ -39,8 +39,4 @@ int main(void)
 	return 0;
 }
 
-// problem: https://www.acmicpc.net/problem/1003
-
-/*
-little twisted but not hard
-*/
+// https://www.acmicpc.net/problem/1003
