@@ -25,8 +25,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/12865
-
-/*
-Standard knapsack problem.
-My thought of dynamic programming has wide
-*/
