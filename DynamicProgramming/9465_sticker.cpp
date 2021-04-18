@@ -37,8 +37,4 @@ int main()
 	for (int a : ans) cout << a << '\n';
 }
 
-// https://solved.ac/contribute/9465
-
-/*
-dynamic programming practice
-*/
+// https://www.acmicpc.net/problem/9465
