@@ -23,7 +23,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2193
-
-/*
-dataStructure is bigger than I expected.
-*/
