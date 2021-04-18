@@ -23,7 +23,7 @@ int main()
 		for (int e = 1; e <= n; e++)
 		{
 			if (s >= e) continue;
-			if (dp[s][e - 1] || dp[s + 1][e - 1])
+			if (dp[s + 1][e - 1] || (e - s == 1))
 				dp[s][e] = (v[s] == v[e]);
 		}
 
@@ -32,9 +32,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/10942
-
-/*
-I did it myself!
-I don't have to remember previous string.
-Just remember previous string is palindrome or not.
-*/
