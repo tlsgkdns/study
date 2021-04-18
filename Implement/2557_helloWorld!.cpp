@@ -9,7 +9,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/2557
-/*
-Hello World!
-basic of basics!
-*/
