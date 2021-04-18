@@ -39,8 +39,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2342
-
-/*
-Little hard dynamic programming problem.
-Little hard to came up with using three dimension.
-*/
