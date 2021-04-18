@@ -94,6 +94,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/2357
-/*
-standard segment-tree problem.
-*/
