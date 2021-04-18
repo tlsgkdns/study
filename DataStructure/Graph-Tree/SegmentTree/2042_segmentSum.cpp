@@ -91,7 +91,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2042
-
-/*
-my first segmentTree Problem
-*/
