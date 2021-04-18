@@ -24,7 +24,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2747
-
-/*
-first step to recursion
-*/
