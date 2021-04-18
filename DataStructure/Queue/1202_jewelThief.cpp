@@ -31,9 +31,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1202
-
-/*
-sort and greedy
-I used multiset for the first time,
-because I heard the algorithm's lower_bound is later than multiset's lower_bound
-*/
