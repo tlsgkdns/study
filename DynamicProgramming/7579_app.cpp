@@ -26,8 +26,3 @@ int main()
 }
 
 //https://www.acmicpc.net/problem/7579
-
-/*
-Harder than I expected.
-I need to more learn about knapsack problem.
-*/
