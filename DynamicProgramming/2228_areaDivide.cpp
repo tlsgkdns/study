@@ -34,7 +34,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2228
-
-/*
-3-dimension dp problem.
-*/
