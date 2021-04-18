@@ -7,7 +7,3 @@ int main()
 	cout << (int)c << '\n';
 }
 // https://www.acmicpc.net/problem/11654
-
-/*
-basic computer
-*/
