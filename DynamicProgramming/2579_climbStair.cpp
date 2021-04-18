@@ -34,8 +34,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2579
-
-/*
-lesson learn: read question more precisely
-standard dynamic problem
-*/
