@@ -35,6 +35,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/1463
-/*
-standard dynamic programming
-*/

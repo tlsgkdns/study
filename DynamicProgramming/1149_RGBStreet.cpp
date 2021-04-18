@@ -32,4 +32,4 @@ int main()
 	cout << ans << '\n';
 }
 
-// https://solved.ac/contribute/1149
+// https://www.acmicpc.net/problem/1149
