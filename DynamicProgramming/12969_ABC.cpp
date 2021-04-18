@@ -41,10 +41,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/12969
-
-/*
-First try, I encountered times out.
-Second try, I realize I can't solve this problem the way I tried.
-Third try, Get idea from the google
-And Finally did it. I learned the new way of dp.
-*/
