@@ -15,7 +15,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/2439
-
-/*
-print star~~
-*/
