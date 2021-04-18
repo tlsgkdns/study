@@ -34,7 +34,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11404
-
-/*
-basic floyd problem
-*/
