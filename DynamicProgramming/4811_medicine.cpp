@@ -55,7 +55,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/4811
-
-/*
-A little difficult dynamic problem.
-*/
