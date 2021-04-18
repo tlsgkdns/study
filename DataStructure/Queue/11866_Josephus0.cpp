@@ -31,7 +31,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11866
-
-/*
-First list-erase, next apply Queue.
-*/
