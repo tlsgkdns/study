@@ -24,8 +24,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/5597
-
-/*
-just implement it.
-I used list to erase more quickly.
-*/
