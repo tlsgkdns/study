@@ -71,7 +71,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/10868
-
-/*
-basic of segmentTree
-*/
