@@ -45,8 +45,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/9177
-
-/*
-BFS + DP problem.
-Not that difficult.
-*/
