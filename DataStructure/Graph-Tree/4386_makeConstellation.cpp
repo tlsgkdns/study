@@ -71,7 +71,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/4386
-
-/*
-My first MST problem using Kruskal.
-*/
