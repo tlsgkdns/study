@@ -16,7 +16,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/9498
-
-/*
-just implement it
-*/
