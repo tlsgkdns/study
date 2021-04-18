@@ -34,7 +34,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/15990
-
-/*
-mod 1000000009 every statement
-*/
