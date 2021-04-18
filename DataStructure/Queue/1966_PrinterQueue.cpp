@@ -42,8 +42,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1966
-
-/*
-I thought it can be solved only by priority_queue
-but harder than I thought.
-*/
