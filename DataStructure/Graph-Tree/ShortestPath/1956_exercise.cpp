@@ -30,7 +30,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1956
-
-/*
-Floyd-Warshall using problem.
-*/
