@@ -24,7 +24,3 @@ int main()
 	cout << tiling(n) % 10007 << '\n';
 }
 // https://www.acmicpc.net/problem/11727
-
-/*
-little twisted problem of 1
-*/
