@@ -29,7 +29,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2156
-
-/*
-little confusing problem
-*/
