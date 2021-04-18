@@ -28,8 +28,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11049
-
-/*
-Standard dynamic programming problem.
-I learned from the college lecture.
-*/
