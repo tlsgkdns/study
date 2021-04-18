@@ -78,7 +78,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/14891
-
-/*
-little complicated than I expected But not that difficult.
-*/
