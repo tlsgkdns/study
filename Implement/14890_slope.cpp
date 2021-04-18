@@ -118,8 +118,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/14890
-
-/*
-No Idea, No special data structure.
-But demanding to implement.
-*/
