@@ -53,9 +53,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/7578
-
-/*
-I came up with FenwickTree that I learned on the book.
-So I used FenwickTree although problem says it can be solved by segmentTree.
-In addition, I used FenwickTree on problemSolving for the first time.
-*/
