@@ -25,7 +25,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2410
-
-/*
-Harder than I expected, But, not that difficult.
-*/
