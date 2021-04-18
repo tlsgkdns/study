@@ -31,7 +31,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11054
-
-/*
-LIS applied problem. Need some idea
-*/
