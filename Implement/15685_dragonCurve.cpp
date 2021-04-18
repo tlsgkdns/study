@@ -50,7 +50,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/15685
-
-/*
-Easier than the others Samsung problem.
-*/
