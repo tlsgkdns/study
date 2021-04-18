@@ -43,8 +43,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2096
-
-/*
-Input also can slide.
-My first sliding dynamic programming problem.
-*/
