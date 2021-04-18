@@ -34,12 +34,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1509
-
-/*
-First seen, I referred 10942_isPalindrome problem that I solved
-And I came up with this solution. But I countered the wall named "Times out"
-After some search and some have some thought. I decided to change the way of approach.
-My first code used two points, top-down solve and intergrated palindrome check.
-But, I changed to one point, bottom to top(or sequently check) and seperated palindrome check;
-And that code works.
-*/
