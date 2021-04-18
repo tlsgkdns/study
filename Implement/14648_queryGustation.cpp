@@ -55,7 +55,3 @@ int main()
 	copy(ans.begin(), ans.end(), ostream_iterator<long long>{cout, "\n"});
 }
 // https://www.acmicpc.net/problem/14648
-
-/*
-Just implement problem
-*/
