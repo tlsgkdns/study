@@ -47,8 +47,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/2839
-/*
--1 unchecked.
--2 impossible.
-Maybe greedy will helpful than dynamic?
-*/
