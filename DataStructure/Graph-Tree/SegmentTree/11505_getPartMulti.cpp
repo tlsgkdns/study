@@ -54,8 +54,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11505
-
-/*
-standard segment problem.
-Cautious that you have to div 1000000007;
-*/
