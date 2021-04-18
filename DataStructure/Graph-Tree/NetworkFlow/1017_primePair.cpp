@@ -93,14 +93,4 @@ int main()
 	return 0;
 }
 
-// problem: https://www.acmicpc.net/problem/1017
-
-/*
-eratosthenes + Bipartite match
-I haven't seen Bipartite matching. so I googled it
-and apply that algorithm.
-For the first time, I used adjacent matrix, 
-but scoring program said it's incorrect.
-So I changed adjacent list, then it said correct
-Maybe adjacent list can be useful than I thought
-*/
+// https://www.acmicpc.net/problem/1017
