@@ -68,9 +68,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2610
-
-/*
-my first floyd algorithm problem.
-used floyd and dfs.
-easy to think but little difficult to implement.
-*/
