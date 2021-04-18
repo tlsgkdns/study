@@ -57,8 +57,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11375
-
-/*
-I had to get training about Networkflow.
-Bipartite matching is harder than I thought.
-*/
