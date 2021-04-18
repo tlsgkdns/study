@@ -36,9 +36,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11053
-
-/*
-I've read this in algorithm book.
-I know there's another resolution,
-But I had to training about that
-*/
