@@ -42,9 +42,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/9252
-
-/*
-DP reconstruct problem.
-I struggled with this problem more than I expected.
-I had to learn more about reconstruct.
-*/
