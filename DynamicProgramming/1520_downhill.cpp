@@ -41,8 +41,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1520
-
-/*
-dfs + dynamic programming
-I little surprised its difficulty(Gold 4) is harder than I thought
-*/
