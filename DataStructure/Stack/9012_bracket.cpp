@@ -46,6 +46,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/9012
-/*
-standard stack problem
-*/
