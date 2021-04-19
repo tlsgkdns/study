@@ -73,7 +73,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/5430
-
-/*
-Deque use problem
-*/
