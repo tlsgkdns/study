@@ -35,9 +35,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/17298
-
-/*
-Little difficult stack problem.
-At first, I reviewed the answer array when stack's top is larger than another stack's. But it came out "Times out"
-So I used stack more efficiently, and it corrects.
-*/
