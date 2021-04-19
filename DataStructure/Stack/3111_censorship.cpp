@@ -102,8 +102,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/3111
-
-/*
-very hard stack problem.
-I came up with this idea myself. I just googled test case.
-*/
