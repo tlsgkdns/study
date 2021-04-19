@@ -42,9 +42,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1398
-
-/*
-problem of idea
-just divide it into two number
-I thought how to solve this problem for all day long
-*/
