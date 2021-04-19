@@ -55,7 +55,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/10828
-
-/*
-just stack
-*/
