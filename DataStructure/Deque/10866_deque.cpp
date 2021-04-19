@@ -89,7 +89,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/10866
-
-/*
-I can use STL Deque. But I want to practice implementing the deque
-*/
