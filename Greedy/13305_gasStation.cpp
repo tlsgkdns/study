@@ -50,7 +50,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/13305
-
-/*
-greedy problem.
-*/
