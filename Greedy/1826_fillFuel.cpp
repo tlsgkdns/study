@@ -35,7 +35,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1826
-
-/*
-sort+ heap. not that difficult.
-*/
