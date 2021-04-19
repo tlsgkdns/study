@@ -75,7 +75,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/3190
-
-/*
-Interesting simulate problem with depue.
-*/
