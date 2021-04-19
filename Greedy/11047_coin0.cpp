@@ -28,8 +28,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11047
-
-/*
-using stack 68ms.
-using vector with index 48ms
-*/
