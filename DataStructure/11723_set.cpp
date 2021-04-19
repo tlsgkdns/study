@@ -40,7 +40,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11723
-
-/*
-careful about input
-*/
