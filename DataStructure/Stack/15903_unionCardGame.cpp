@@ -39,7 +39,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/15903
-
-/*
-pop pop push pop pop push
-*/
