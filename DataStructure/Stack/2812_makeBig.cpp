@@ -44,7 +44,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2812
-
-/*
-stack + greedy.
-*/
