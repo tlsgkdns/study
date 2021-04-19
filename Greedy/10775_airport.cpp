@@ -21,8 +21,3 @@ int main()
 }
 
 //https://solved.ac/contribute/10775
-/*
-Site said it can be solved by Union-find
-But I selected just greedy.
-Although its execution time is long, I solved it.
-*/
