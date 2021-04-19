@@ -58,8 +58,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1918
-
-/*
-Start with easy thought for reviewing postfix(stack).
-But harder than I thought. Especially considering operator's priority.
-*/
