@@ -22,6 +22,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2872
-/*
-little hard to came up.
-*/
