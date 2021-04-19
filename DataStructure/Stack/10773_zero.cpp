@@ -27,8 +27,3 @@ int main()
 	return 0;
 }
 // https://www.acmicpc.net/problem/10773
-
-/*
-0 means stack.pop();
-else n means stack.push(n);
-*/
