@@ -34,7 +34,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/14916
-
-/*
-Maybe I can use Dynamic.
-*/
