@@ -54,12 +54,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2457
-
-/*
-It was hard...
-At first I assume choosing most overlay date will be correct.
-but it was wrong. when I realize that the code has completed,
-and it was long code. that was the waste of time.
-and thought again intensively start point.
-so I decided to use priority_queue, opposing the start date. and it was successful.
-*/
