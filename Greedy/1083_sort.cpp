@@ -50,7 +50,3 @@ int main(void)
 	return 0;
 }
 // https://www.acmicpc.net/problem/1083
-/*
-I misunderstood the problem for the first time.
-But, Finally, I came up with this idea
-*/
