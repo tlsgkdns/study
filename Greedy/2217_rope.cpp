@@ -25,7 +25,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2217
-
-/*
-sort and greedy
-*/
