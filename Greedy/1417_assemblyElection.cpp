@@ -27,7 +27,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1417
-/*
-Unexpectedly, little difficult to thought
-priority_queue + greedy
-*/
