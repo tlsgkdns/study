@@ -49,7 +49,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/20003
-
-/*
-stack + Euclid
-*/
