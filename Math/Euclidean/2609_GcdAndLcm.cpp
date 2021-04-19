@@ -23,7 +23,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2609
-
-/*
-standard Euclidean algorithm problem.
-*/
