@@ -21,7 +21,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11399
-
-/*
-Easy greedy problem.
-*/
