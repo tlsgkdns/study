@@ -44,6 +44,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/10830
-/*
-divide practice problem.
-*/
