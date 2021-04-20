@@ -18,7 +18,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/11966
-
-/*
-simple problem
-*/

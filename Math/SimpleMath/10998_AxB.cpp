@@ -10,7 +10,3 @@ int main(void)
 	cout << a * b << '\n';
 }
 // https://www.acmicpc.net/problem/10998
-
-/*
-simple math
-*/

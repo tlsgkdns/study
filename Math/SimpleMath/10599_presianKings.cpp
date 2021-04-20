@@ -23,7 +23,3 @@ int main()
 	return 0;
 }
 // https://www.acmicpc.net/problem/10599
-
-/*
-simple problem
-*/

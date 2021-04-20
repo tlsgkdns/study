@@ -22,7 +22,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/11022
-
-/*
-simple Problem
-*/

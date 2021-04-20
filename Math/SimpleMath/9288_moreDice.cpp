@@ -34,7 +34,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/9288
-
-/*
-simple math problem
-*/

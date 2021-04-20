@@ -12,7 +12,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/3046
-
-/*
-simple question
-*/
