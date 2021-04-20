@@ -46,12 +46,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1422
-
-/*
-Harder than I thought.
-I thought this problem is easy.
-But that wasn't. It was much harder than I thought.
-I coded this with question's page.
-And finally I did it!
-The way of greed and sorting is much different than I first coded.
-*/
