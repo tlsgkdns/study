@@ -23,7 +23,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1181
-
-/*
-just sort paired length and string
-*/
