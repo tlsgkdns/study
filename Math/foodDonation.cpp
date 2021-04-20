@@ -54,12 +54,3 @@ int main()
 }
 
 // https://codeforces.com/gym/102986/problem/E
-
-/*
-First code from codeForce.
-I translate this problem as factorization.
-And I thought it is the problem of translation and If it correctly translated
-I can easily solve this problem.
-But, That was wrong, At the end of use all my knowledge(DP, accumulatedSum, Eratosthenes) to use.
-I finally can solve this problem. I can't believe I solved this problem.
-*/
