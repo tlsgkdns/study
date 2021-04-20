@@ -15,8 +15,4 @@ int main()
 	cout << s << endl;
 }
 
-// problem: https://www.acmicpc.net/problem/1026
-
-/*
-just sort it
-*/
+// https://www.acmicpc.net/problem/1026
