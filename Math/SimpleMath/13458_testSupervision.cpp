@@ -37,7 +37,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/13458
-
-/*
-Do not forget answer's type is at least 8 byte
-*/
