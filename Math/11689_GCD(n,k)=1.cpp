@@ -27,8 +27,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11689
-
-/*
-Leared Euler's phi function.
-I have to understand the code more.
-*/
