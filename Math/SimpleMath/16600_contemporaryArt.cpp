@@ -13,8 +13,3 @@ int main()
 	cout << 4 * sq << endl;
 }
 // https://www.acmicpc.net/problem/16600
-
-/*
-My first English problem(statement is English).
-that's all.
-*/
