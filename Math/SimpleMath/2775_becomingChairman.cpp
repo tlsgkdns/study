@@ -21,7 +21,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2775
-
-/*
-k, n was very small, so just calculate was helpful.
-*/
