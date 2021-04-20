@@ -14,5 +14,4 @@ int main()
 	for (int i = 0; i < n; i++) s += a[i] * b[i];
 	cout << s << endl;
 }
-
 // https://www.acmicpc.net/problem/1026
