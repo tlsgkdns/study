@@ -50,7 +50,3 @@ int main()
 }
 
 //https://www.acmicpc.net/problem/1676
-
-/*
-maybe its easy but I solved it little hard way.
-*/
