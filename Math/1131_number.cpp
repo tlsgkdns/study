@@ -66,8 +66,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1131
-
-/*
-this is my first time that I solved myself more than gold 1(difficulty)
-with no googling and no questioning page
-*/
