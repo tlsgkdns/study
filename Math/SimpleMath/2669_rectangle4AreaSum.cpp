@@ -28,8 +28,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2669
-
-/*
-Maybe I'm dumb. I calculated all rectangle area.
-And attempted to subtract overlay area.
-*/
