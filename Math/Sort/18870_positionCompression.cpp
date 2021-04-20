@@ -32,7 +32,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/18870
-
-/*
-store previous position, sort it and numbering by order it.
-*/
