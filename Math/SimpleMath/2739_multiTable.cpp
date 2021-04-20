@@ -16,6 +16,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2739
-/*
-basic
-*/
