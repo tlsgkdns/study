@@ -14,7 +14,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11650
-
-/*
-sort pair
-*/
