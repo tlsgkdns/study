@@ -32,7 +32,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2869
-/*
-simulating was bad idea..
-just calculate it.
-*/
