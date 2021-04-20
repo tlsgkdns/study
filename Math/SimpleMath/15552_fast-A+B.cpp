@@ -27,8 +27,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/15552
-
-/*
-cin.tie(NULL); ios_base::sync_with_stdio(false);
-magic for fast
-*/
