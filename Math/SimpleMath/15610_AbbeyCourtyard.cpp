@@ -9,6 +9,3 @@ int main()
 	cout << sq * 4 << '\n';
 }
 // https://www.acmicpc.net/problem/15610
-/*
-simple math
-*/

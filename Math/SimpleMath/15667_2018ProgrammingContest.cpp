@@ -15,7 +15,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/15667
-
-/*
-simple problem
-*/

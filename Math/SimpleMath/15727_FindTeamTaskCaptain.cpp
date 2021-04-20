@@ -7,7 +7,3 @@ int main()
 	cout << (l + 4) / 5 << endl;
 }
 // https://www.acmicpc.net/problem/15727
-
-/*
-simple problem
-*/

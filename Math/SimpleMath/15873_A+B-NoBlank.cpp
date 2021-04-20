@@ -23,7 +23,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/15873
-
-/*
-div and plus
-*/
