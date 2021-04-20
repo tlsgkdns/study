@@ -38,9 +38,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2751
-
-/*
-To review sort algorithm, I coded quickSort at first.
-But result was "Times out". So I tried mergeSort instead of it.
-And it corrects.
-*/
