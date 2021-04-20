@@ -20,8 +20,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2750
-
-/*
-stl sort algorithm was helpful.
-Without this, maybe I used bubbleSort. 
-*/
