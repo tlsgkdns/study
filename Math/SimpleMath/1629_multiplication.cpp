@@ -21,8 +21,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1629
-
-/*
-divide and conquer
-don't use int instead of long long
-*/
