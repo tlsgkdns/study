@@ -65,8 +65,4 @@ int main(void)
 	return 0;
 }
 
-// problem: https://www.acmicpc.net/problem/1002
-
-/*
-nothing special
-*/
+// https://www.acmicpc.net/problem/1002

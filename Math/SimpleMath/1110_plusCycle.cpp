@@ -23,8 +23,3 @@ int main(void)
 	return 0;
 }
 // https://www.acmicpc.net/problem/1110
-
-/*
-just calculate and repeat
-this problem remind me of 1131(Gold, number) problem..
-*/

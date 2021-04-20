@@ -9,8 +9,4 @@ int main(void)
 	cout << a + b << endl;
 	return 0;
 }
-// problem: https://www.acmicpc.net/problem/1000
-
-/*
-simple problem
-*/
+// https://www.acmicpc.net/problem/1000
