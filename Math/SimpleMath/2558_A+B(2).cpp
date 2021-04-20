@@ -16,7 +16,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2558
-
-/*
-simple calculate
-*/

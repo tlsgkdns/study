@@ -16,7 +16,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2577
-
-/*
-multply it and divide it by ten!
-*/

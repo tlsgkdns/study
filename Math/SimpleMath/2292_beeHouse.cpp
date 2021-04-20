@@ -20,6 +20,3 @@ int main(void)
 
 
 // https://www.acmicpc.net/problem/2292
-/*
-simple problem
-*/

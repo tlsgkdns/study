@@ -18,6 +18,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2588
-/*
-Simple math.
-*/
