@@ -44,9 +44,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2104
-
-/*
-I tried segmentTree, But I realize it is difficult than I thought.
-And after some thoughtm I realize it is resemble of "histogram problem" that I had read the book.
-So I refer to that book. and it was correct.
-*/
