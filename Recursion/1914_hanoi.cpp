@@ -56,9 +56,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1914
-
-/*
-Start to review hanoi.
-Learned how to handle bigInteger by string.
-Felt void that there's int128 in c++
-*/
