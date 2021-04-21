@@ -47,8 +47,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1992
-
-/*
-Recursive practice problem.
-Little took some time confusing the position.
-*/
