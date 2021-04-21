@@ -29,6 +29,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1769
-/*
-simple recursive + string problem.
-*/
