@@ -36,7 +36,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/11724
-
-/*
-standard tree traverse problem
-*/
