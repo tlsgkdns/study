@@ -62,6 +62,3 @@ int main()
 	return 0;
 }
 // https://www.acmicpc.net/problem/14923
-/*
-bfs + more space for prev state.
-*/
