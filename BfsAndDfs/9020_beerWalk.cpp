@@ -51,8 +51,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/9020
-
-/*
-Maybe I have read question more carefully.
-typical bfs problem
-*/
