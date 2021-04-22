@@ -63,8 +63,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/2660
-
-/*
-error: I don't know myself
-bfs problem. maybe Floyd-Warshall ?
-*/
