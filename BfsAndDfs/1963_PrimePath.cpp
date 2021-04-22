@@ -73,8 +73,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1963
-
-/*
-eratosthenes + bfs.
-little hard, but not that difficult.
-*/
