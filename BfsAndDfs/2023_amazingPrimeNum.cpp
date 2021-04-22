@@ -33,9 +33,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2023
-
-/*
-First I tried eratostenes, but when I finished the code.
-I guess its time is long and memory is large.
-So I tried dfs and it solved easily.
-*/
