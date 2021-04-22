@@ -38,7 +38,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2668
-
-/*
-Little hard to think. But if you came up, it's easy.
-*/
