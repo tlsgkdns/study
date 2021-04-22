@@ -36,8 +36,3 @@ int main()
 }
 
 //https://www.acmicpc.net/problem/1697
-
-/*
-Did I thought it can be solved by dynamic?
-Unfortunately, it was bfs! da-da
-*/
