@@ -44,7 +44,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/1967
-
-/*
-tree dfs practice problem
-*/
