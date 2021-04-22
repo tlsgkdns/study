@@ -97,7 +97,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/1260
-
-/*
-standard dfs, bfs problem
-*/
