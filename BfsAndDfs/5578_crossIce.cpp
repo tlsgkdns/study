@@ -51,9 +51,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/5578
-
-/*
-Tried to dynamic programming but failed.
-So, I coded simply, expecting got result "Times out"
-But, Unexpectedly, I got "Correct"
-*/
