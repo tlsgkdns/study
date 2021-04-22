@@ -22,7 +22,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/16953
-
-/*
-Simple bfs problem, Maybe greedy?
-*/
