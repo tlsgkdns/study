@@ -86,8 +86,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/16236
-
-/*
-More read the statement of problem.
-up, left first.So, sort it and push it.
-*/
