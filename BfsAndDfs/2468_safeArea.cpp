@@ -48,8 +48,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2468
-
-/*
-bruteForce + dfs or bfs.
-nothing special.
-*/
