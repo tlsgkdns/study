@@ -36,6 +36,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/2606
-/*
-practice of dfs
-*/
