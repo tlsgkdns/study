@@ -47,7 +47,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2178
-
-/*
-standard BFS problem
-*/
