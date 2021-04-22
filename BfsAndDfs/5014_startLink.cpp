@@ -47,7 +47,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/5014
-
-/*
-bfs problem
-*/
