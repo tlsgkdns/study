@@ -46,7 +46,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2252
-
-/*
-Learning topological sort;
-*/
