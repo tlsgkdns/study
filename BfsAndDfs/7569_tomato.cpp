@@ -64,8 +64,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/7569
-
-/*
-Little complex bfs problem.
-Don't ignore z direction.
-*/
