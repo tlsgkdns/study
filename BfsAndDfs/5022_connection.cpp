@@ -82,8 +82,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/5022
-
-/*
-little hard bfs problem.
-I have trouble solving this problem because of the order.
-*/
