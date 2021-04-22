@@ -45,8 +45,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2533
-
-/*
-coding that written in book -> wrong.
-coding simply with dfs -> correct(?)
-*/
