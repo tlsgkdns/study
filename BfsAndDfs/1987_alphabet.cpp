@@ -38,7 +38,3 @@ int main()
 
 
 //https://www.acmicpc.net/problem/1987
-
-/*
-dfs + backtracking problem.
-*/
