@@ -49,7 +49,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2667
-
-/*
-dfs all possible tile
-*/
