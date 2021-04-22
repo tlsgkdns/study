@@ -65,9 +65,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/16234
-
-/*
-Linked site says it can be solved bfs.
-But, I thought dfs is easier solution.
-So I solve with dfs.
-*/
