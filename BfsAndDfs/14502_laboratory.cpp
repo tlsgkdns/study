@@ -69,11 +69,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/14502
-
-/*
-install wall -> simulate spread
--> record it -> deinstall a wall ->
-repeat
-
-Simulate spread = bfs;
-*/
