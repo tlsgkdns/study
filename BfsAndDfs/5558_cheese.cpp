@@ -52,8 +52,6 @@ const pair<int, int> south = make_pair(1, 0);
 const pair<int, int> north = make_pair(-1, 0);
 const vector<pair<int, int>> news = { north, west, east, south };
 
-
-// 5558¹ø ¹®Á¦
 int main(void)
 {
 	vector<string> map;
@@ -109,9 +107,3 @@ int main(void)
 	return 0;
 }
 // https://www.acmicpc.net/problem/5558
-
-/*
-My first bfs, Japanese(question was written in Japanese) problem
-when I solve this I feel a lot of pleasure.
-Although its memory and time is bad.
-*/
