@@ -31,6 +31,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2798
-/*
-simple bruteforce
-*/
