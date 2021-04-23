@@ -215,8 +215,3 @@ int main(void)
 }
 
 // https://www.acmicpc.net/problem/12100
-
-/*
-This problem is not fun.
-I hate Bruteforce.
-*/
