@@ -49,8 +49,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2303
-
-/*
-bruteForce is bothersome.
-but this is not
-*/
