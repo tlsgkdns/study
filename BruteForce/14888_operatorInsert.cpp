@@ -69,7 +69,3 @@ int main()
 
 // https://www.acmicpc.net/problem/14888
 
-/*
-Because N is very small, we can do all possible case.
-*/
-
