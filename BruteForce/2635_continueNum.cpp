@@ -29,7 +29,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/2635
-
-/*
-Easy bruteforce problem. rest time.
-*/
