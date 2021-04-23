@@ -39,7 +39,3 @@ int main()
 	cout << ans << '\n';
 }
 // https://www.acmicpc.net/problem/15954
-
-/*
-Lesson re-learned. recursion is more slower than the for statement.
-*/
