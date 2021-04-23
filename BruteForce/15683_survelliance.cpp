@@ -119,7 +119,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/15683
-/*
-A little complicated bruteforce problem.
-I hate bruteforce
-*/
