@@ -77,7 +77,3 @@ int main()
 }
 
 //  https://www.acmicpc.net/problem/16637
-
-/*
-Just do it.
-*/
