@@ -68,6 +68,3 @@ int main()
 }
 
 //https://www.acmicpc.net/problem/1708
-/*
-Learned Convex Hull
-*/
