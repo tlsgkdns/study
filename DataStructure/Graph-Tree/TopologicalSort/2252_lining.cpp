@@ -20,9 +20,6 @@ void dfs(int s)
 }
 int main()
 {
-	ios_base::sync_with_stdio(false);
-	cout.tie(NULL);
-	cin.tie(NULL);
 	int n, m;
 	cin >> n >> m;
 	line = vector<list<int>>(n + 1, list<int>());
