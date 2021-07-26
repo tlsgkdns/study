@@ -72,6 +72,3 @@ int main()
 	}
 }
 // https://www.acmicpc.net/problem/9370
-/*
-Learned that the result may say whether it passed specific path. By even odd number
-*/
