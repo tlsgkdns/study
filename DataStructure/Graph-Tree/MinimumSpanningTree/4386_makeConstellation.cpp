@@ -69,5 +69,4 @@ int main()
 	}
 	cout << sum << '\n';
 }
-
 // https://www.acmicpc.net/problem/4386
