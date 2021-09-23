@@ -41,4 +41,5 @@ int main()
 	}
 	cout << ans << '\n';
 }
+
 // https://www.acmicpc.net/problem/1197
