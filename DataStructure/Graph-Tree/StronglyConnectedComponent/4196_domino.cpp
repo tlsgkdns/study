@@ -72,7 +72,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/4196
-
-/*
-Learned SCC + topologicalSort and method of calculating indegree.
-*/
