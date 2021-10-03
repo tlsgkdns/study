@@ -1,13 +1,12 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <list>
 
 using namespace std;
 
 vector<bool> v;
 vector<int> cnt;
-vector<list<int>> can;
+vector<vector<int>> can;
 
 bool dfs(int x)
 {
