@@ -50,4 +50,8 @@ int main()
 	cout << ans << '\n';
 }
 
+<<<<<<< HEAD
 // https://www.acmicpc.net/problem/1167
+=======
+// https://www.acmicpc.net/problem/1167
+>>>>>>> cdb5aa01a76c9297595d762cb04efaff9eb97a45
