@@ -67,7 +67,7 @@ struct Dice
 		for (int i = 0; i < 4; i++)
 			sides[i] = tmp[i];
 	}
-	void rollSouth()
+	void rollNorth()
 	{
 		int tmp[4];
 		tmp[3] = faces[0];
@@ -78,7 +78,7 @@ struct Dice
 		for (int i = 0; i < 4; i++)
 			faces[i] = tmp[i];
 	}
-	void rollNorth()
+	void rollSouth()
 	{
 		int tmp[4];
 		tmp[0] = faces[3];
