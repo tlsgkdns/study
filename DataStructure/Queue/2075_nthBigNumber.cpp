@@ -17,7 +17,7 @@ int main()
 			if (i == N - 1)
 				pq.push({ graph[i][j], {i, j} });
 		}
-	for (int i = 0; i < N - 1; i++)
+	for (int t = 0; t < N - 1; t++)
 	{
 		int idx1 = pq.top().second.first;
 		int idx2 = pq.top().second.second;
