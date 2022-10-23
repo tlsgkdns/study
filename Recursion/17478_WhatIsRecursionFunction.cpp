@@ -28,3 +28,5 @@ int main()
 	cin >> N;
 	solve(0);
 }
+
+// https://www.acmicpc.net/problem/17478
