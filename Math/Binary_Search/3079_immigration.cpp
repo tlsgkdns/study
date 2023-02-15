@@ -1,8 +1,8 @@
 #include <iostream>
 #include <vector>
-#include <limits>
+
 using namespace std;
-using ll = long long;
+using ll = unsigned long long int;
 vector<ll> control;
 ll n, m, h, l = 0, mid, mx = -1;
 bool canDo(ll time)
@@ -14,7 +14,7 @@ bool canDo(ll time)
 }
 int main()
 {
-	h = numeric_limits<ll>::max();
+	ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(NULL);
 	cin >> n >> m;
 	control.resize(n);
 	for (int i = 0; i < n; i++)
@@ -22,7 +22,7 @@ int main()
 		cin >> control[i];
 		if (control[i] > mx) mx = control[i];
 	}
-	h = m * mx;
+	h = mx * m;
 	for (int it = 0; it <= 100; it++)
 	{
 		mid = (h + l) / 2;
