@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <iomanip>
+#include <cmath>
 using namespace std;
 
 int c, n, sum, cnt;
@@ -26,7 +26,12 @@ int main()
 		double a = (double)cnt / n;
 		ans.push_back(a * 100);
 	}
-	for (double a : ans) cout << fixed << setprecision(3) << a << "%" << '\n';
+	cout.precision(3);
+	for (double a : ans)
+	{
+		cout << fixed;
+		cout << round(1000 * a) / 1000 << "%" << '\n';
+	}
 }
 
 // https://www.acmicpc.net/problem/4344
