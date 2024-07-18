@@ -4,7 +4,6 @@
 using namespace std;
 
 string S;
-
 int main()
 {
 	ios_base::sync_with_stdio(false);
