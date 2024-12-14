@@ -19,7 +19,3 @@ int main()
 }
 
 // https://www.acmicpc.net/problem/17427
-
-/*
-solve like Eratosthenes
-*/
